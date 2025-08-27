@@ -1,6 +1,8 @@
 # 🌱 Plant Watering Reminder
 
 <div align="center">
+  <img src="./assets/images/app-logo.png" alt="Plant Watering Reminder Logo" width="120" height="120">
+  
   <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -10,6 +12,18 @@
 
 <div align="center">
   <p><em>Never let your green friends go thirsty again! 💚</em></p>
+</div>
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="./assets/screenshots/home-page.png" alt="Plant Watering Reminder Home Page" width="600">
+  <p><em>Clean and intuitive home interface</em></p>
+</div>
+
+<div align="center">
+  <img src="./assets/screenshots/water-me-notification.png" alt="Water Me Notification" width="400">
+  <p><em>Friendly reminder notifications</em></p>
 </div>
 
 ---
@@ -141,7 +155,17 @@ We're aware of these issues and working on fixes:
 | 🖥️ **Off-screen notifications** | Reminder window may appear off-screen on some resolutions | 🔧 In Progress |
 | 📅 **Leap year handling** | Interval calculations don't account for February 29th | 📋 Planned |
 
-Found a bug? Please [open an issue](https://github.com/TechySakib/plant-watering-reminder/issues) with details!
+Found a bug? Please [open an issue](https://github.com/yourusername/plant-watering-reminder/issues) with details!
+
+---
+
+## 📞 Get in Touch
+
+- 🐛 **Report Bugs**: [GitHub Issues](https://github.com/TechySakib/plant-watering-reminder/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/TechySakib/plant-watering-reminder/discussions)
+- 📧 **Contact**: your.email@example.com
+
+---
 
 
 
