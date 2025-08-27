@@ -1,7 +1,7 @@
 # 🌱 Plant Watering Reminder
 
 <div align="center">
-  <img src="./assets/images/app-logo.png" alt="Plant Watering Reminder Logo" width="120" height="120">
+  <img src="./assets/cactus.png" alt="Plant Watering Reminder Logo" width="120" height="120">
   
   <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
