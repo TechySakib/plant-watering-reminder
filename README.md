@@ -1,7 +1,7 @@
 # 🌱 Plant Watering Reminder
 
 <div align="center">
-  <img src="./assets/cactus.png" alt="Plant Watering Reminder Logo" width="120" height="120">
+  
   
   <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -17,12 +17,12 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./assets/screenshots/home-page.png" alt="Plant Watering Reminder Home Page" width="600">
+  <img src="./assets/home.png" alt="Plant Watering Reminder Home Page" width="600">
   <p><em>Clean and intuitive home interface</em></p>
 </div>
 
 <div align="center">
-  <img src="./assets/screenshots/water-me-notification.png" alt="Water Me Notification" width="400">
+  <img src="./assets/water me.png" alt="Water Me Notification" width="400">
   <p><em>Friendly reminder notifications</em></p>
 </div>
 
