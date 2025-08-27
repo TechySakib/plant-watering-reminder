@@ -1,0 +1,25 @@
+{
+  "name": "plant-watering-reminder",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "An app to remind you to water your plant based on interval.",
+  "author": "Sakib",
+  "scripts": {
+    "start": "electron --no-sandbox .",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^25.9.8",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "com.sakib.plantwatering",
+    "win": {
+      "target": "nsis",
+      "icon": "D:/plant deep/assets/cactus.ico"
+    }
+  },
+  "dependencies": {
+    "auto-launch": "^5.0.6"
+  }
+}

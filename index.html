@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Plant Watering Reminder</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🌵 Plant Watering Reminder</h1>
+    <div class="form-group">
+      <label>Last Watered Date:</label>
+      <input type="date" id="lastWatered">
+    </div>
+    <div class="form-group">
+      <label>Water Every:</label>
+      <input type="number" id="interval" min="1" value="3"> days
+    </div>
+    <button id="saveBtn">Save</button>
+  </div>
+  <script src="renderer.js"></script>
+</body>
+</html>

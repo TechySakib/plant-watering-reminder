@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Water Me!</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="reminder">
+    <img src="assets/cactus-sad.gif" id="cactus" alt="Thirsty Cactus">
+    <p>Water me please!</p>
+  </div>
+  <script>
+    const { ipcRenderer } = require('electron');
+    document.getElementById('cactus').addEventListener('click', () => {
+      ipcRenderer.send('watered-plant');
+    });
+  </script>
+</body>
+</html>
