@@ -155,17 +155,11 @@ We're aware of these issues and working on fixes:
 | 🖥️ **Off-screen notifications** | Reminder window may appear off-screen on some resolutions | 🔧 In Progress |
 | 📅 **Leap year handling** | Interval calculations don't account for February 29th | 📋 Planned |
 
-Found a bug? Please [open an issue](https://github.com/yourusername/plant-watering-reminder/issues) with details!
+Found a bug? Please [open an issue]([https://github.com/TechySakib]) with details!
 
 ---
 
-## 📞 Get in Touch
 
-- 🐛 **Report Bugs**: [GitHub Issues](https://github.com/TechySakib/plant-watering-reminder/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/TechySakib/plant-watering-reminder/discussions)
-- 📧 **Contact**: your.email@example.com
-
----
 
 
 
