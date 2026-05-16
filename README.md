@@ -56,7 +56,7 @@ Before you begin, make sure you have these installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/plant-watering-reminder.git
+   git clone https://github.com/TechySakib/plant-watering-reminder.git
    ```
 
 2. **Navigate to the project directory**
